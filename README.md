@@ -1,5 +1,30 @@
 # VaishnaviKorde_Portfolio
-A clean, modern personal portfolio website built using HTML, CSS, and JavaScript.
+✨ Key Features
+Responsive Design - Mobile-first approach with CSS Grid and Flexbox
+Interactive Contact Form - Complete validation, loading states, and notifications
+Dynamic Theming - Light/dark mode toggle with system preference detection
+Smooth Animations - CSS transitions, scroll effects, and canvas animations
+Accessibility First - ARIA labels, keyboard navigation, and screen reader support
+Modern JavaScript - ES6+ features, async/await, and modular code structure
+Project Showcase - Filterable portfolio with modal overlays
+Skills Display - Interactive tabs with progress indicators
+Mobile Navigation - Hamburger menu with smooth animations
+
+🛠️ Technologies Used
+HTML5 - Semantic markup with proper accessibility
+CSS3 - Custom properties, Grid, Flexbox, animations
+JavaScript - Modern ES6+ features, DOM manipulation
+
+📱 Sections
+Hero with animated background
+About with downloadable resume
+Education timeline
+Skills with categorized tabs
+Portfolio with project filters
+Contact form with validation
+Footer with social links
+
+
 
 <img width="1917" height="877" alt="image" src="https://github.com/user-attachments/assets/3a881681-356b-4c70-91df-26677bb1d1cf" />
 <img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/133ae6c4-9983-4065-abd4-b115bb2bed80" />
